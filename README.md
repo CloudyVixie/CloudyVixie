@@ -1,151 +1,97 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0b2740,100:123e5a&height=210&section=header&text=Vixie&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=estudos%20%7C%20projetos%20%7C%20tecnologia&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=3200&pause=1100&color=8FD3FF&center=true&vCenter=true&width=700&lines=Estudante+de+Inform%C3%A1tica;Aprendendo+Python;Estudando+desenvolvimento+Web;Construindo+projetos+durante+a+forma%C3%A7%C3%A3o" alt="Animação de texto"/>
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-07111f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/Projetos-123e5a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
 
-⸻
-
-☁️ Sobre mim
-
-Sou estudante de Informática, atualmente focada em aprender programação de forma prática e entender melhor como as diferentes partes de uma aplicação se conectam.
-
-Python é a linguagem com que tenho mais contato no momento. Também estudo Java, JavaScript e PHP, ainda em diferentes níveis de familiaridade.
-
-Tenho estudado principalmente:
-
-* Programação Orientada a Objetos
-* Desenvolvimento Web
-* Banco de dados relacionais
-* Lógica de programação
-* Git e GitHub
-* Estrutura e organização de projetos
-
-Este perfil reúne projetos, exercícios e experiências feitas durante esse processo de aprendizado.
-
-⸻
-
-🌊 Tecnologias
-
-<div align="center">
-
-Mais presente nos estudos
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-Em aprendizado
-
-<img src="https://skillicons.dev/icons?i=java,javascript,php&theme=dark"/>
-
-Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
-
-Banco de dados
-
-<img src="https://skillicons.dev/icons?i=postgres,mariadb&theme=dark"/>
-
-Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-</div>
-
-⸻
-
-🛠️ O que estou estudando
-
-<div align="center">
-
-Área	Tecnologias / conceitos
-🐍 Python	Lógica, funções, listas, dicionários, POO e módulos
-☕ Java	Fundamentos e Programação Orientada a Objetos
-🌐 Web	HTML, CSS e fundamentos de JavaScript
-🐘 PHP	Fundamentos e integração com aplicações Web
-🗄️ Banco de dados	PostgreSQL e MariaDB
-🔧 Ferramentas	Git, GitHub e VS Code
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0b2740,100:123e5a&height=190&section=header&text=Vixie&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=estudos%20%7C%20projetos%20%7C%20tecnologia&descAlignY=61&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
-⸻
+# Olá, eu sou Vixie!
 
-📁 Projetos
+### Estudante de Informática | FAETEC
 
-<div align="center">
-<a href="https://github.com/SEU_USUARIO/REPOSITORIO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_1&theme=github_dark&hide_border=true&bg_color=07111f&title_color=8fd3ff&icon_color=5fa8d3"/>
-</a>
-<a href="https://github.com/SEU_USUARIO/REPOSITORIO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_2&theme=github_dark&hide_border=true&bg_color=07111f&title_color=8fd3ff&icon_color=5fa8d3"/>
-</a>
-</div>
-<br>
+Sou estudante de **Informática** e estou cursando o **3º ano do Ensino Médio Técnico na FAETEC**.
 
-Os projetos aqui funcionam principalmente como parte dos estudos: alguns são exercícios mais simples e outros acabam crescendo conforme novos conceitos são aprendidos.
+Nasci em 2008 e tenho interesse em tecnologia de forma geral. Meu objetivo é trabalhar na área de informática, seja com **programação, montagem e manutenção, análise de dados** ou outras áreas relacionadas.
 
-A ideia é manter os repositórios organizados e registrar, aos poucos, o que está sendo desenvolvido durante a formação.
+---
 
-⸻
+## Sobre mim
 
-🖥️ No momento
+Meu perfil no GitHub tem como principal objetivo mostrar **meu aprendizado e as ideias que surgem no dia a dia**.
 
-╭─[vixie@github]─[~/estudos]
-╰─$ cat aprendendo.txt
-Python
-├── Fundamentos
-├── Funções
-├── Estruturas de dados
-├── Programação Orientada a Objetos
-└── Módulos
-Java
-└── Fundamentos e POO
-Web
-├── HTML
-├── CSS
-└── JavaScript
-PHP
-└── Fundamentos
-Banco de dados
-├── PostgreSQL
-└── MariaDB
-Ferramentas
-├── Git
-├── GitHub
-└── VS Code
+Grande parte dos projetos começa com alguma situação simples que despertou curiosidade ou criou uma necessidade.
 
-⸻
+Muitos deles, inclusive, surgiram enquanto jogava.
 
-🌱 Próximos estudos
+Em algum momento, podia aparecer a necessidade de calcular uma probabilidade, descobrir a quantidade de itens necessária para uma receita, encontrar coordenadas ou até descobrir uma sensibilidade adequada para determinado jogo.
 
-[ ] Continuar aprofundando Python
-[ ] Praticar mais Programação Orientada a Objetos
-[ ] Melhorar conhecimentos em SQL
-[ ] Evoluir em Java
-[ ] Continuar estudando JavaScript
-[ ] Aprofundar PHP
-[ ] Começar a estudar APIs
-[ ] Conhecer Web Scraping
-[ ] Criar projetos maiores
+Em vez de procurar uma ferramenta pronta, algumas dessas situações acabaram virando pequenos programas.
 
-⸻
+Essa acabou sendo uma das formas mais interessantes de aprender: **encontrar um problema e tentar transformá-lo em código**.
 
-📊 GitHub
+---
+
+## Tecnologias
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=07111f&title_color=8fd3ff&icon_color=5fa8d3&text_color=c9d6e3"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=6&theme=github_dark&bg_color=07111f&title_color=8fd3ff&text_color=c9d6e3"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
+
 </div>
 
-⸻
+Tenho mais experiência com **Python**, principalmente em projetos voltados para lógica, cálculos, automação e manipulação de dados.
+
+Também estudo **Java**, especialmente programação orientada a objetos, e **JavaScript**, utilizado em projetos web.
+
+Tenho conhecimento em **HTML, CSS e SQL**, além de pouco contato com **PHP**.
+
+---
+
+## Projetos
+
+Os projetos deste perfil possuem objetivos diferentes.
+
+Alguns foram criados para praticar determinado conceito de programação. Outros surgiram de alguma necessidade específica. Também existem projetos que começaram simplesmente como uma ideia que parecia interessante.
+
+Uma parte dos projetos surgiu durante jogos.
+
+Quando aparece uma dúvida como calcular uma probabilidade, descobrir uma quantidade de recursos, verificar uma receita, trabalhar com coordenadas ou encontrar uma configuração específica, uma solução possível é criar uma ferramenta própria.
+
+Foi assim que várias ideias começaram.
+
+Um exemplo é o **Sensibility Finder**.
+
+O projeto nasceu de uma necessidade que já havia sido resolvida algumas vezes com pequenos programas em Python: encontrar uma sensibilidade adequada para jogos de mira.
+
+Dessa vez, a ideia foi transformar esse processo em um pequeno site utilizando JavaScript.
+
+Esse tipo de projeto representa bem a proposta deste perfil: pegar algo que surgiu no cotidiano e usar a programação para transformar a ideia em uma ferramenta.
+
+---
+
+## Aprendizado
+
+Este GitHub funciona como um registro do meu aprendizado.
+
+Nem todos os projetos têm a intenção de ser grandes ou complexos. Alguns servem para testar uma tecnologia, praticar um conceito ou simplesmente experimentar uma ideia.
+
+Alguns projetos começam pequenos e acabam crescendo conforme novas necessidades aparecem. Outros cumprem exatamente a função para a qual foram criados e ficam como uma forma de registrar aquilo que foi aprendido.
+
+Mais do que mostrar apenas projetos finalizados, quero deixar registrado **o processo de aprender, testar, errar e encontrar soluções**.
+
+É isso que torna cada projeto parte do meu aprendizado.
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123e5a,50:0b2740,100:07111f&height=110&section=footer" width="100%"/>
 
-Um espaço para acompanhar estudos, projetos e evolução na programação.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123e5a,50:0b2740,100:07111f&height=100&section=footer" width="100%"/>
+
+**Obrigado por visitar meu perfil.**
 
 </div>
