@@ -10,7 +10,7 @@
 
 Sou estudante de **Informática** e estou cursando o **3º ano do Ensino Médio Técnico na FAETEC**.
 
-Nasci em 2008 e tenho interesse em tecnologia de forma geral. Meu objetivo é trabalhar na área de informática, seja com **programação, montagem e manutenção, análise de dados** ou outras áreas relacionadas.
+Atualmente tenho 18 anos e tenho interesse em tecnologia de forma geral. Meu objetivo é trabalhar na área de informática, seja com **programação, montagem e manutenção, análise de dados** ou outras áreas relacionadas.
 
 ---
 
