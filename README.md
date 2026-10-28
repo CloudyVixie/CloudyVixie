@@ -33,14 +33,14 @@ Utilizo este espaço para compartilhar projetos, experimentar ideias e registrar
 
 ---
 
-### 📊 Linguagens mais utilizadas
+### 📚 Linguagens em estudo
 
 <p align="left">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudyVixie&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Linguagens mais utilizadas"
-  />
+  <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="JavaScript" title="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="PHP" title="PHP" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </p>
 
 ---
