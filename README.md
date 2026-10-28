@@ -35,7 +35,7 @@ Utilizo este espaço para compartilhar projetos, experimentar ideias e registrar
 
 ### 📊 Linguagens mais utilizadas
 
-<p align="center">
+<p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CloudyVixie&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Gráfico das linguagens mais utilizadas" />
 </p>
 
